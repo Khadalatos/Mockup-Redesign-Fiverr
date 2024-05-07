@@ -1,9 +1,9 @@
 # Redesign Fiverr
 
-###Mengenai Fiverr
+#Mengenai Fiverr
 Fiverr adalah sebuah platform yang membantu para freelancer untuk menawarkan jasa jasa yang mereka miliki,contohnya yaitu penawan jasa editing video, foto, portrait, bahkan ada yang bisa menjadi seorang guru.
 
-###Kenapa memilih Fiverr ?
+#Kenapa memilih Fiverr ?
 Tampilan dari aplikasi fiverr bisa dibilang sudah cukup ketinggalan jaman, tampilan untuk penjualnya bisa dibilang terlalu sederhana dan tidak menarik.
 
 Link Figma : https://www.figma.com/file/NpmqJuPhruLFk9bfpH26mp/Untitled?type=design&node-id=216%3A196&mode=design&t=hwLulRD2PVIXIGVu-1
