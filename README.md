@@ -1,14 +1,14 @@
 # Redesign Fiverr
 
-<strong>Mengenai Fiverr</strong
+###Mengenai Fiverr
 Fiverr adalah sebuah platform yang membantu para freelancer untuk menawarkan jasa jasa yang mereka miliki,contohnya yaitu penawan jasa editing video, foto, portrait, bahkan ada yang bisa menjadi seorang guru.
 
-<Strong>Kenapa memilih Fiverr ? </strong>
+###Kenapa memilih Fiverr ?
 Tampilan dari aplikasi fiverr bisa dibilang sudah cukup ketinggalan jaman, tampilan untuk penjualnya bisa dibilang terlalu sederhana dan tidak menarik.
 
 Link Figma : https://www.figma.com/file/NpmqJuPhruLFk9bfpH26mp/Untitled?type=design&node-id=216%3A196&mode=design&t=hwLulRD2PVIXIGVu-1
 
-<Strong> Original </Strong>
+### Original ###
 
 ![WhatsApp Image 2024-05-07 at 8 32 58 AM (1)](https://github.com/Khadalatos/Mockup-Redesign-Fiverr/assets/81304535/77bf8182-001c-4dfb-b3c9-3fc848c46a40)
 ![WhatsApp Image 2024-05-07 at 8 32 59 AM](https://github.com/Khadalatos/Mockup-Redesign-Fiverr/assets/81304535/6fda9176-a761-40f8-b8a8-0ffb5cae8c14)
